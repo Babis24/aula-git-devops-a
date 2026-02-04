@@ -2,4 +2,7 @@
 exemplo de repositorio 
 
 
-# Estudos FrontEnd
+# Estudos 
+
+- frontend
+- devop

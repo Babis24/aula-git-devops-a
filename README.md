@@ -7,4 +7,4 @@
 - git add . (adicionar todos os arquivos no path no stage changes)
 - git checkout -b (cria uma branch)
 - git commit -m (salva os arquivos no repositóriio local)
-- git push (enviar o repositório local para o repositório remoto)
+- git push (enviar o repositório local para o repositório remoto)  (git push origin comando-git)
